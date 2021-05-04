@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TopluMail.Core", "Udemy.TopluMail.Core\Udemy.TopluMail.Core.csproj", "{278A9F08-FF49-48CB-9CD5-A80E542A9BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TopluMail.Entities", "Udemy.TopluMail.Entities\Udemy.TopluMail.Entities.csproj", "{5F52682E-EABC-444E-8FDC-FD8F2512DEBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TopluMail.ConsoleApp", "Udemy.TopluMail.ConsoleApp\Udemy.TopluMail.ConsoleApp.csproj", "{4EC7F592-7F5D-4C6D-95EC-2E8861855CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TopluMail.Goruntule", "Udemy.TopluMail.Goruntule\Udemy.TopluMail.Goruntule.csproj", "{E501081C-D7D9-4B24-A5C6-6BA91BDDC49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TopluMail.WinServis", "Udemy.TopluMail.WinServis\Udemy.TopluMail.WinServis.csproj", "{04753117-053A-43E1-A496-D7440309B134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.TopluMail.W3", "Udemy.TopluMail.W3\Udemy.TopluMail.W3.csproj", "{8D2E6A89-8DD1-44FB-9E92-764F62B6C7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278A9F08-FF49-48CB-9CD5-A80E542A9BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278A9F08-FF49-48CB-9CD5-A80E542A9BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278A9F08-FF49-48CB-9CD5-A80E542A9BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278A9F08-FF49-48CB-9CD5-A80E542A9BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F52682E-EABC-444E-8FDC-FD8F2512DEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F52682E-EABC-444E-8FDC-FD8F2512DEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F52682E-EABC-444E-8FDC-FD8F2512DEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F52682E-EABC-444E-8FDC-FD8F2512DEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC7F592-7F5D-4C6D-95EC-2E8861855CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC7F592-7F5D-4C6D-95EC-2E8861855CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC7F592-7F5D-4C6D-95EC-2E8861855CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC7F592-7F5D-4C6D-95EC-2E8861855CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E501081C-D7D9-4B24-A5C6-6BA91BDDC49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E501081C-D7D9-4B24-A5C6-6BA91BDDC49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E501081C-D7D9-4B24-A5C6-6BA91BDDC49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E501081C-D7D9-4B24-A5C6-6BA91BDDC49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04753117-053A-43E1-A496-D7440309B134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04753117-053A-43E1-A496-D7440309B134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04753117-053A-43E1-A496-D7440309B134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04753117-053A-43E1-A496-D7440309B134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2E6A89-8DD1-44FB-9E92-764F62B6C7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2E6A89-8DD1-44FB-9E92-764F62B6C7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2E6A89-8DD1-44FB-9E92-764F62B6C7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2E6A89-8DD1-44FB-9E92-764F62B6C7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B21A7B6-7118-4F29-80FB-7BFCA4BEF47F}
+	EndGlobalSection
+EndGlobal
